@@ -13,3 +13,5 @@ for test_case in range(1,T+1):
             max_cnt=cnt[i]
             idx=i
     print(f'#{test_case} {idx} {max_cnt}')
+
+    #문제: https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do
