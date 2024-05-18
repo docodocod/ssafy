@@ -23,3 +23,6 @@ for test_case in range(1,T+1):
         print(f'#{test_case} A')
     elif answer1==answer2:
         print(f'#{test_case} 0')
+
+#comment
+#count를 셀 생각을 안하고 if문을 통해서 누가 더 먼저 할지 로직을 짜느라 시간을 소비하였다.
